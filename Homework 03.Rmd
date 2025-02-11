@@ -19,6 +19,8 @@ Name: Suresh Bhavsar
 UT EID: sb65245
 GitHub repo: https://github.com/Surbeast/SDS-315-HW-3
 
+\newpage
+
 # Problem 1: Gas Prices
 
 ```{r}
